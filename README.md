@@ -1,4 +1,6 @@
-## Hi there 👋
+- 😎 hello i am ahmad waris.
+- 💻 I am frontend devoloper .
+- 🌱 I’m currently learning ...
 
 <!--
 **waris-pjr/waris-pjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
